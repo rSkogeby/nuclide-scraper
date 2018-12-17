@@ -1,0 +1,14 @@
+{
+  "name": "scraper",
+  "version": "0.0.0",
+  "dependencies": {
+    "autoloader": "^2.1.0",
+    "puppeteer": "^1.11.0",
+    "table-scraper": "^0.1.0"
+  },
+  "description": "Application for scraping nuclide data.",
+  "main": "scraper.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
